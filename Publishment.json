@@ -1,5 +1,7 @@
 {
-  "class": "PoodScene",
+  "data":[
+    {
+      "class": "PoodScene",
   "Scene_Name": "Yeni Sahne",
   "rotation": "horizontal",
   "style": {
@@ -83,4 +85,6 @@
   ],
   "Status": true,
   "id": "scene"
+    }
+  ]
 }
